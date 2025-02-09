@@ -13,7 +13,7 @@ Un jeu de Pong en 3D développé avec **Three.js**. Ce projet est un projet dans
 ## Installation
 1. Clonez le dépôt :
     ```bash
-    git clone <votre-url-depot>
+    git clone https://github.com/Saikorenji/Pong-IRISATION.git
     cd pong-irisation
     ```
 
